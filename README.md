@@ -1,6 +1,6 @@
 En este proyecto consumi una API de peliculas en la pagina de themoviedb 🎬.
 
-Conectamos python con telegram para que nos arrojaran el resultado en un grupo de telegram creado por nosotros.
+Conectamos python con telegram para que nos arrojaran el resultado en un grupo de telegram creado por nosotros 🤖.
 
 Usamos dos bots en telegram para que nos dijeran: Numero de peliculas, si son populares o en estreno, el genero, y una sinopsis 🎦.
 
